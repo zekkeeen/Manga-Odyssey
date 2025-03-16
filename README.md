@@ -84,5 +84,5 @@ manga-odyssey/
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, reach out to **yourname@email.com**.
+For any inquiries, reach out to **ebenezernolimit@gmail.com**.
 
